@@ -1,8 +1,8 @@
 # Documents PDF & Web Archives
 [Return to home](https://renaheberg.eu.org)
 ## .PDF
-[Closed](https://renaheberg.github.io/W212012750/closed.pdf) <br>
-[Creation](https://renaheberg.github.io/W212012750/creations.pdf)
+[Closed](https://renaheberg.github.io/archives/closed.pdf) <br>
+[Creation](https://renaheberg.github.io/archives/creations.pdf)
 ## Web Archives
 ### 10-03-2021
 [RenaHeberg.fr](https://web.archive.org/web/20210310000849/http://renaheberg.fr/)
