@@ -14,6 +14,7 @@
   - Exemple: RenaHeberg website development/WHMCS theme, WHM/cPanel/WHMCS configuration, CM Social Network, Communication, ...
 - [Romain Alcon](https://romainalcon.me/projects/renaheberg): Co-President, Treasurer, and main support.
   - Exemple: Support with LiveChat/Ticket, Mentally assisted & paper level (for the association) byFrench.
+
 ## Copyright
 2018-2020 &copy; RenaHeberg - W212012750 <br>
 Association created and directed/presided by [byFrench](https://github.com/byFrench)
