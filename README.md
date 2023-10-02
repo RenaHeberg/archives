@@ -12,7 +12,7 @@
 ## Old Team
 - [byFrench](https://github.com/byFrench): President, developer and maintainer
   - Exemple: RenaHeberg website development/WHMCS theme, WHM/cPanel/WHMCS configuration, CM Social Network, Communication, ...
-- [Romain Alcon](https://romainalcon.me/projects/renaheberg): Co-President, Treasurer, and main support.
+- [Romain Alcon](https://web.archive.org/web/20231002172331/https://romainalcon.me/projects/renaheberg): Co-President, Treasurer, and main support.
   - Exemple: Support with LiveChat/Ticket, Mentally assisted & paper level (for the association) byFrench.
 
 ## Copyright
